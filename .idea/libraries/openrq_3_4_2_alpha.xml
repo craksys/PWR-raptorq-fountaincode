@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openrq-3.4.2-alpha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../openrq-3.4.2-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
